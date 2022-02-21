@@ -12,7 +12,7 @@ A FasterTK wants to apply the Zen of python to FastAPI. FastAPI is great in givi
 * The toolkit must define the structure of the code, and provide ways to eavluate the code.
 
 ## Tools
-* TorotoiSec: This tool expends of the excelent torotise ORM with lambda functions that prevent inserting, updating, selecting or deleting, without explicit permission. (Comming Soon)
+* Tortoisec: This tool expends of the excelent torotise ORM with lambda functions that prevent inserting, updating, selecting or deleting, without explicit permission. (Comming Soon)
 * PydanSec: A mode of pydantic that can be translated easly into TorotoiSec. (Comming Soon)
 * Faster: A wrapper on fastAPI with additional permission handling, and updating openapi.json (Comming Soon)
 * FasterAuth: Data schemes for users and groups. As this is an API library, it contains a wide varity of auth scemes. (Comming Soon)
